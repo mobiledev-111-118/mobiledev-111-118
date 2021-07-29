@@ -59,7 +59,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/kroim/BrandonMarketing-Contract">
+                <a href="https://github.com/mobiledev-111-118/BrandonMarketing-Contract">
                     <img src="https://github.com/mobiledev-111-118/profile/blob/main/projects/NFT_BrandonMarket.png?raw=true" width="200">
                     <p align="center">BrandonMarket - Marketing contract</p>
                 </a>
