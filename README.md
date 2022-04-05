@@ -1,5 +1,5 @@
 ### 👋 WELCOME!!! 👋
-<p align='center'>
+<!-- <p align='center'>
     <a href="https://t.me/mdexpert">
       <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
     </a>&nbsp;&nbsp;
@@ -9,7 +9,7 @@
     <a href="mailto:mobiledev111118@gmail.com">
       <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
